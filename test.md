@@ -1,7 +1,9 @@
-Dodanie treści testowej:
+Usunięcie treści testowej:
 
 [ ] jeden
 [ ] dwa
 [ ] trzy
 
 Koniec
+
+albo nie koniec
